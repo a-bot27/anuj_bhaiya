@@ -1,1 +1,1 @@
-print ("Multiplication is "+3*3*3)
+print ("Multiplication is ",3*3*3)
